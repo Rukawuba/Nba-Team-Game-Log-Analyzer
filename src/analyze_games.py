@@ -105,3 +105,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+plt.savefig("figures/points_over_time.png", dpi=200)
